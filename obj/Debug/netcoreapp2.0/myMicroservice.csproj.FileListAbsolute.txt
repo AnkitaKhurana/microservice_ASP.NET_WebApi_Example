@@ -1,0 +1,11 @@
+D:\myMicroservice\bin\Debug\netcoreapp2.0\myMicroservice.deps.json
+D:\myMicroservice\bin\Debug\netcoreapp2.0\myMicroservice.runtimeconfig.json
+D:\myMicroservice\bin\Debug\netcoreapp2.0\myMicroservice.runtimeconfig.dev.json
+D:\myMicroservice\bin\Debug\netcoreapp2.0\myMicroservice.dll
+D:\myMicroservice\bin\Debug\netcoreapp2.0\myMicroservice.pdb
+D:\myMicroservice\obj\Debug\netcoreapp2.0\myMicroservice.csprojAssemblyReference.cache
+D:\myMicroservice\obj\Debug\netcoreapp2.0\myMicroservice.csproj.CoreCompileInputs.cache
+D:\myMicroservice\obj\Debug\netcoreapp2.0\myMicroservice.AssemblyInfoInputs.cache
+D:\myMicroservice\obj\Debug\netcoreapp2.0\myMicroservice.AssemblyInfo.cs
+D:\myMicroservice\obj\Debug\netcoreapp2.0\myMicroservice.dll
+D:\myMicroservice\obj\Debug\netcoreapp2.0\myMicroservice.pdb
